@@ -31,7 +31,9 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
 
 ## 🧪 Other Skills
 - Artificial Intelligence & Machine Learning  
@@ -39,7 +41,9 @@
 - Web Development (Frontend & Backend)  
 - Cybersecurity Awareness  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
 
 ## 🌟 Featured Project
 
@@ -47,7 +51,9 @@
 A **machine learning–powered web dashboard** that predicts early health risks (like diabetes or heart disease) from user lifestyle and biometric data.  
 Built using **Django**, **TensorFlow**, and **PostgreSQL**.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
 
 ## 🔥 Contribution Streak
 
@@ -66,3 +72,7 @@ Built using **Django**, **TensorFlow**, and **PostgreSQL**.
 ---
 
 > 🌟 *“Innovate something that helps society.”*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
+</p>
