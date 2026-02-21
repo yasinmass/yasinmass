@@ -8,7 +8,9 @@
 💡 Exploring **Web Development**, **AI/ML**, and **Cybersecurity**.  
 🚀 Always eager to learn, build, and collaborate!
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
 
 ## 🧠 Languages
 <p align="center">
