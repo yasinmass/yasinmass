@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7F00FF,100:E100FF&section=header"/>
+</p>
 <h1 align="center">Hi 👋, I'm Mohammed Yasin</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 Machine Learning Enthusiast</h3>
 
@@ -43,6 +46,12 @@ A **machine learning–powered web dashboard** that predicts early health risks 
 Built using **Django**, **TensorFlow**, and **PostgreSQL**.
 
 ---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yasinmass&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📬 Let’s Connect!
 
