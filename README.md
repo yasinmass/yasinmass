@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7F00FF,100:E100FF&section=header"/>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed Yasin</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 Machine Learning Enthusiast</h3>
+<h3 align="center">🤖 Machine Learning Enthusiast | 💻 Full Stack Developer </h3>
 
 🌱 I’m passionate about **innovating solutions** that help society.  
 💡 Exploring **Web Development**, **AI/ML**, and **Cybersecurity**.  
@@ -55,16 +55,6 @@ Built using **Django**, **TensorFlow**, and **PostgreSQL**.
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
 </p>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasinmass&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
-</p>
 ## 📬 Let’s Connect!
 
 <p align="center">
