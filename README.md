@@ -17,14 +17,18 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
 
 ## 🧩 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,tensorflow" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
 
 ## 🗄️ Databases
 <p align="center">
