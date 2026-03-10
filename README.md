@@ -5,7 +5,7 @@
 <h3 align="center">🤖 Machine Learning Enthusiast | 💻 Full Stack Developer </h3>
 
 🌱 I’m passionate about **innovating solutions** that help society.  
-💡 Exploring **Web Development**, **AI/ML**, and **Cybersecurity**.  
+💡 Exploring **Lang chain**, **Deep learning**, and **Cloud**.  
 🚀 Always eager to learn, build, and collaborate!
 
 <p align="center">
