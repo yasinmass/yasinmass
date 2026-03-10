@@ -39,6 +39,21 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
 </p>
 
+<h3>🔥 My Coding Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinmass&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasinmass&theme=radical" />
+  &nbsp;
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
+</p>
+
 ## 🧪 Other Skills
 - Artificial Intelligence & Machine Learning  
 - Data Analysis & Data Science  
@@ -50,6 +65,7 @@
 </p>
 
 ## 🌟 Featured Project
+
 
 ### 🩺 **Demintia screening and care platform**
 AI-based dementia screening platform that analyzes voice patterns and cognitive test results to assist early detection.**.
