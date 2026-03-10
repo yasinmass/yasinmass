@@ -51,9 +51,11 @@
 
 ## 🌟 Featured Project
 
-### 🩺 **Health Risk Prediction System**
-A **machine learning–powered web dashboard** that predicts early health risks (like diabetes or heart disease) from user lifestyle and biometric data.  
-Built using **Django**, **TensorFlow**, and **PostgreSQL**.
+### 🩺 **Demintia screening and care platform**
+AI-based dementia screening platform that analyzes voice patterns and cognitive test results to assist early detection.**.
+
+### 🧠 **seniormind-ai**
+Voice-first AI mental health platform for senior citizens — speak naturally, Mitra listens.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
