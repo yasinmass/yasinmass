@@ -55,10 +55,8 @@
 </p>
 
 ## 🧪 Other Skills
-- Artificial Intelligence & Machine Learning  
-- Data Analysis & Data Science  
 - Web Development (Frontend & Backend)  
-- Cybersecurity Awareness  
+- Cybersecurity Awareness
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:92FE9D"/>
